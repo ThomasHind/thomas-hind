@@ -1,0 +1,18 @@
+body {
+    height: 100%;
+}
+
+#logo {
+    color: ;
+}
+
+#cover {
+    background-size: cover;
+    color: black;
+    height: 100%;
+    text-align: center;
+}
+
+#cover-caption {
+    color: darkblue;
+}

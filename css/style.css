@@ -1,20 +1,20 @@
+html,
 body {
     height: 100%;
 }
 
-#logo {
-    color: ;
-}
 
 #cover {
+    background: url('/Img/cover.png') no-repeat;
     background-size: cover;
-    color: black;
     height: 100%;
     text-align: center;
+    color: white;
+    display: flex;
+    align-items: center;
+
 }
 
 #cover-caption {
-    color: yellow;
-    background: black;
-
+    width: 100%;
 }
